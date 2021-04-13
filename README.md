@@ -1,2 +1,2 @@
 # techdegree-project-1
- My first techdegree project
+ My first landing page with treehouse
